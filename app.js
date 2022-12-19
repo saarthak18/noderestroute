@@ -1,5 +1,5 @@
 let express =require('express');
-//for reading value from .env
+//for reading value from .envk
 let app=express();
 let dotenv = require('dotenv');
  dotenv.config()
